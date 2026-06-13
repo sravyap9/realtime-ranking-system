@@ -219,3 +219,6 @@ __marimo__/
 
 # Srav added
 .DS_Store
+
+# Kaggle data
+data/
