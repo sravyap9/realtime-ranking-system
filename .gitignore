@@ -222,3 +222,8 @@ __marimo__/
 
 # Kaggle data
 data/
+
+data/
+artifacts/
+*.pkl
+.DS_Store
